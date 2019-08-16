@@ -4,13 +4,7 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\components",
-    "\\src\\app\\components\\buscador",
-    "\\src\\app\\components\\heroe",
-    "\\src\\app\\components\\heroe-tarjeta",
-    "\\src\\app\\components\\heroes",
-    "\\src\\app\\components\\shared",
-    "\\src\\app\\components\\shared\\navbar",
-    "\\src\\assets"
+    "\\src\\app\\components\\shared\\navbar"
   ],
   "SelectedNode": "\\angular.json",
   "PreviewInSolutionExplorer": false
